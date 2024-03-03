@@ -1,14 +1,15 @@
 CACHE MANIFEST 
-# Kameleon 900V4.6 Payloads Cache
-# 01/30/2022-14:27:00.78 
+# v2.5.5 Self-Host 
 
 900.html
+900kmepl.cache
 bg.jpg
 btn.css
 cache.html
 exploit.js
 favicon.ico
 frontend.js
+index-online.html
 index.html
 index.js
 int64.js
@@ -42,12 +43,3 @@ rop_sleirs.js
 syscalls.js
 syscalls2.js
 webkit.js
-
-NETWORK:
-*
-
-SETTINGS:
-prefer-online:
-
-# Date: 06/02/2022  10:00:00.00
-
